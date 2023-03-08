@@ -1,4 +1,4 @@
-- 👀 I’m interested in artificial intelligence and machine learning, especially for applications in medicine and healthcare.
+- 👀 I’m interested in Artificial Intelligence and Machine Learning, especially for applications in Medicine, Public Health, and Healthcare Systems.
 - 🌱 I’m currently studying deep reinforcement learning interpretability and explainability methods.
 
 <!---
