@@ -2,7 +2,7 @@
 - 🌱 I’m currently studying deep reinforcement learning interpretability and explainability techniques and their application in medicine.
 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ASorayaie&theme=dark&background=FFFFFF)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ASorayaie&theme=white&background=000000)
 
 
 <!---
